@@ -2,6 +2,6 @@
  "root": "./",
  "routes": {
     "/**": "index.html",
-    "/img": "./img"
+    "/screenshot": "./img/mobile.jpeg"
   }
 }
